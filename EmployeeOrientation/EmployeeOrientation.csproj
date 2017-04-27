@@ -44,6 +44,7 @@
   <ItemGroup>
     <Content Include="Content Types\NewEmployee\Elements.xml" />
     <Content Include="Pages\Help.aspx" />
+    <Content Include="Pages\SettingsPage.aspx" />
     <Content Include="RunOrientationAdd-in\Elements.xml">
       <OpcRelationship>feature-elementmanifest</OpcRelationship>
     </Content>
